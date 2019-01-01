@@ -1,4 +1,4 @@
-FROM danielwhatmuff/zappa
+FROM Bulletninja/zappa
 
 ARG version
 
